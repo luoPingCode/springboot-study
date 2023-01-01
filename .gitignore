@@ -1,0 +1,4 @@
+# Project exclude paths
+/springboot-junit/target/
+/springboot-mybatis/target/
+/springboot-redis/target/
